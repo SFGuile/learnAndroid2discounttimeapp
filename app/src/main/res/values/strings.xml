@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DiscountTime</string>
+    <string name="cost">Cost</string>
+    <string name="how_was_the_discount">How was the discount</string>
+    <string name="option_20_percent">20 %</string>
+    <string name="option_18_percent">18 %</string>
+    <string name="option_15_percent">15 %</string>
+    <string name="round_up_discount">Round up discount?</string>
+    <string name="caculate">Caculate</string>
+    <string name="discount_result">Discount Amount</string>
+</resources>
