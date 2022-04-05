@@ -7,6 +7,8 @@
     tools:context=".MainActivity">
 
 
+
+
     <Button
         android:id="@+id/caculat_button"
         android:layout_width="134dp"
